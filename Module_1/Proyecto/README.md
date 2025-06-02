@@ -26,11 +26,20 @@ project-root/
 ## 🧪 How to Use
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/rockdev999/FE-IA-DevF/tree/main/Module_1/Proyecto
    ```
 
-Open the main file: index.html
+   Open the main file:
+   `bash
+     index.html
+     `
+
+2. GitHub Pages:
+   ```bash
+   xxxxx
+   ```
 
 ## 🛠️ Built With
 
